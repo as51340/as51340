@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/3BUYbmXltgQ4zu0Tv5/giphy.gif" width="100"/>
 </div>-->
 
-<img src="https://komarev.com/ghpvc/?username=as51340&style=flat-square&color=blue" alt=""/>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andi-%C5%A1krgat-658b471b8/">
@@ -17,7 +16,7 @@
 </div>
 
 
-### Hi there 👋
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=as51340&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZBvZqcALnnfrDmirhi/giphy.gif" width="600" height="300"/>
