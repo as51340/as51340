@@ -31,7 +31,7 @@
 
 
 I am a Computer science student at FER, University of Zagreb from Croatia :croatia:
-- 🔭 I’m currently working as a Software Engineer Intern on Graph Machine Learning :computer: .
+- 🔭 I’m currently working as a Software Engineer in Memgraph :computer: .
 - 💬 Ask me about computer science, mathematics and football :soccer:.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-%C6%A1krgat-658b471b8/) 
 - :zap: In my free time, I run, play football and coach as football youth coach :child:.
