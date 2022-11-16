@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andi-%C5%A1krgat-658b471b8/">
+  <a href="https://www.linkedin.com/in/andi-skrgat-658b471b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Andi958">
