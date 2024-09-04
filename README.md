@@ -22,9 +22,8 @@
 ###  :man_technologist: About Me :
 
 🔭 I’m currently working as a Software Engineer in Memgraph :computer: .
-- 💬 Ask me about computer science, mathematics and football :soccer:.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-%C6%A1krgat-658b471b8/) 
-- :zap: In my free time, I play football and coach as football youth coach :child:.
+- :zap: In my free time, I coach youth in football :child:.
 - ✍️ Occasionally, I write on my own [blog](https://as51340.github.io/blog/) 📰. 
 
 ---
